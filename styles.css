@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
+.maindiv{
+    border: 0.5px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+.logoInNavbar{
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.contentNav{
+    display: inline-block;
+    position: relative;
+    font-size: 100%;
+
+}
+
+@media (min-width: 1000px){
+    .homelogo{
+        margin-top:15%;
+        margin-left: 20%;
+    }
+    .imageInc{
+        filter: brightness(50%)
+    }
+}
+
+@media (max-width: 1000px){
+    .homelogo{
+        height: 0px;
+        width: 0px;
+    }
+    .elementsofNav{
+        margin-left: 3%;
+    }
+    .elementsofNav1{
+        margin-left: 2%;
+    }
+}
+
+#projects{
+    border-width: 0;
+    background-color: transparent;
+}
+
+.forfont{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titcaro{
+    margin-bottom: 20%;
+}
