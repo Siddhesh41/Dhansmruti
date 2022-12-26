@@ -23,8 +23,8 @@
         margin-top:15%;
         margin-left: 20%;
     }
-    .imageInc{
-        filter: brightness(50%)
+    .titcaro{
+        margin-bottom: 20%;
     }
 }
 
@@ -39,6 +39,13 @@
     .elementsofNav1{
         margin-left: 2%;
     }
+    .titcaro{
+        margin-bottom: 3%;
+    }
+}
+
+.imageInc{
+    filter: brightness(50%)
 }
 
 #projects{
@@ -51,6 +58,40 @@
 }
 
 .titcaro{
-    margin-bottom: 20%;
     font-family: 'Montserrat', sans-serif;
+}
+
+.sec{
+    margin-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    display: inline-block;
+}
+
+.exploreMore{
+    margin-top: 2.5%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    float: right;
+    padding: 0.5%;
+}
+
+.divofsector{
+    /* background-color: rgb(223, 146, 69); */
+}
+
+
+.imgitem{
+    border: 2px solid black;
+}
+
+.maincr{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.secdiv{
+    padding-top: 2%;
+    margin-bottom: 2%;
 }
